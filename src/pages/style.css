@@ -1,0 +1,26 @@
+html,
+body,
+#___gatsby,
+canvas {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+body {
+  background: #b4e3ff;
+}
+
+h1 {
+  font-family: helvetica;
+  font-weight: 800;
+  font-size: 10em;
+  text-align: center;
+  color: rgb(74, 180, 241);
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+}
